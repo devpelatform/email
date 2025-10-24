@@ -63,12 +63,12 @@
   ],
   "dependencies": {
     "@react-email/components": "^0.5.7",
-    "nodemailer": "^7.0.9",
-    "resend": "^6.2.0"
+    "nodemailer": "^7.0.10",
+    "resend": "^6.2.2"
   },
   "devDependencies": {
-    "@types/node": "^24.9.0",
-    "@types/nodemailer": "^7.0.2",
+    "@types/node": "^24.9.1",
+    "@types/nodemailer": "^7.0.3",
     "@types/react": "^19.2.2",
     "react": "^19.2.0",
     "tsup": "^8.5.0",
