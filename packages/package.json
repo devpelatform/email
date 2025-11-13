@@ -1,6 +1,6 @@
 {
   "name": "@pelatform/email",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Email templates and sending utilities for SaaS applications.",
   "author": "Pelatform Dev",
   "license": "MIT",
@@ -61,16 +61,16 @@
     "resend"
   ],
   "dependencies": {
-    "@react-email/components": "^0.5.7",
+    "@react-email/components": "^1.0.1",
     "nodemailer": "^7.0.10",
-    "resend": "^6.4.1"
+    "resend": "^6.4.2"
   },
   "devDependencies": {
-    "@types/node": "^24.10.0",
+    "@types/node": "^24.10.1",
     "@types/nodemailer": "^7.0.3",
-    "@types/react": "^19.2.2",
+    "@types/react": "^19.2.4",
     "react": "^19.2.0",
-    "tsup": "^8.5.0",
+    "tsup": "^8.5.1",
     "typescript": "^5.9.3"
   },
   "peerDependencies": {
